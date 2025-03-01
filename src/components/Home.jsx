@@ -12,6 +12,10 @@ function Home() {
             <li>
              <Link to="/react-query">React Query</Link>
             </li>
+            <li>
+             <Link to="/pagination">Pagination</Link>
+            </li>
+            
         </ul>
     </div>
   )

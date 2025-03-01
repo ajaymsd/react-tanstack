@@ -1,19 +1,226 @@
 {
-    "posts" : [
-        {
-            "id" : "1",
-            "title":"Sundar Pitchai gonalez",
-            "description" : "lorem lorem lorem lorem"
-        },
-        {
-            "id" : "2",
-            "title":"Mukesh Ambani hhh",
-            "description" : "lorem lorem lorem lorem"
-        },
-        {
-            "id" : "3",
-            "title":"Elon Musk",
-            "description" : "lorem lorem lorem lorem"
-        }
-    ]
+  "posts": [
+    {
+      "id": "1",
+      "title": "Sundar Pitchai gonalez",
+      "description": "lorem lorem lorem lorem"
+    },
+    {
+      "id": "2",
+      "title": "Mukesh Ambani hhh",
+      "description": "lorem lorem lorem lorem"
+    },
+    {
+      "id": "3",
+      "title": "Elon Musk",
+      "description": "lorem lorem lorem lorem"
+    },
+    {
+      "title": "hhh",
+      "description": "ddd",
+      "id": "C7FDGOD"
+    }
+  ],
+  "fruits": [
+    {
+      "id": 1,
+      "name": "apple"
+    },
+    {
+      "id": 2,
+      "name": "banana"
+    },
+    {
+      "id": 3,
+      "name": "orange"
+    },
+    {
+      "id": 4,
+      "name": "grape"
+    },
+    {
+      "id": 5,
+      "name": "mango"
+    },
+    {
+      "id": 6,
+      "name": "pear"
+    },
+    {
+      "id": 7,
+      "name": "kiwi"
+    },
+    {
+      "id": 8,
+      "name": "strawberry"
+    },
+    {
+      "id": 9,
+      "name": "blueberry"
+    },
+    {
+      "id": 10,
+      "name": "raspberry"
+    },
+    {
+      "id": 11,
+      "name": "blackberry"
+    },
+    {
+      "id": 12,
+      "name": "pineapple"
+    },
+    {
+      "id": 13,
+      "name": "watermelon"
+    },
+    {
+      "id": 14,
+      "name": "cantaloupe"
+    },
+    {
+      "id": 15,
+      "name": "honeydew"
+    },
+    {
+      "id": 16,
+      "name": "peach"
+    },
+    {
+      "id": 17,
+      "name": "plum"
+    },
+    {
+      "id": 18,
+      "name": "cherry"
+    },
+    {
+      "id": 19,
+      "name": "pomegranate"
+    },
+    {
+      "id": 20,
+      "name": "fig"
+    },
+    {
+      "id": 21,
+      "name": "date"
+    },
+    {
+      "id": 22,
+      "name": "coconut"
+    },
+    {
+      "id": 23,
+      "name": "lychee"
+    },
+    {
+      "id": 24,
+      "name": "guava"
+    },
+    {
+      "id": 25,
+      "name": "passionfruit"
+    },
+    {
+      "id": 26,
+      "name": "dragonfruit"
+    },
+    {
+      "id": 27,
+      "name": "papaya"
+    },
+    {
+      "id": 28,
+      "name": "jackfruit"
+    },
+    {
+      "id": 29,
+      "name": "durian"
+    },
+    {
+      "id": 30,
+      "name": "avocado"
+    },
+    {
+      "id": 31,
+      "name": "cranberry"
+    },
+    {
+      "id": 32,
+      "name": "starfruit"
+    },
+    {
+      "id": 33,
+      "name": "tangerine"
+    },
+    {
+      "id": 34,
+      "name": "apricot"
+    },
+    {
+      "id": 35,
+      "name": "persimmon"
+    },
+    {
+      "id": 36,
+      "name": "rhubarb"
+    },
+    {
+      "id": 37,
+      "name": "gooseberry"
+    },
+    {
+      "id": 38,
+      "name": "mulberry"
+    },
+    {
+      "id": 39,
+      "name": "boysenberry"
+    },
+    {
+      "id": 40,
+      "name": "elderberry"
+    },
+    {
+      "id": 41,
+      "name": "breadfruit"
+    },
+    {
+      "id": 42,
+      "name": "longan"
+    },
+    {
+      "id": 43,
+      "name": "soursop"
+    },
+    {
+      "id": 44,
+      "name": "cherimoya"
+    },
+    {
+      "id": 45,
+      "name": "ackee"
+    },
+    {
+      "id": 46,
+      "name": "tamarind"
+    },
+    {
+      "id": 47,
+      "name": "cactus pear"
+    },
+    {
+      "id": 48,
+      "name": "medlar"
+    },
+    {
+      "id": 49,
+      "name": "sapodilla"
+    },
+    {
+      "id": 50,
+      "name": "quince"
+    }
+  ]
 }
